@@ -1,6 +1,8 @@
 
 # 🎬✨ Video Segmentation Research & Analysis 🔍🧠
 
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Welcome to **"Video Segmentation: Comparative Study of Classical, ML & Deep Learning Techniques"**, a research-backed project showcasing a detailed comparison of various video segmentation methods — from basic thresholding to advanced transformer architectures. 🚀
 
 📄 **[View Report PDF](./Report%20Analysis.pdf)** | 🧪 **[Explore the Code](./Working.ipynb)**
@@ -125,6 +127,17 @@ Special thanks to the open-source community, research papers referenced, and con
 🎓 BCA Student @ Amity University, Lucknow  
 🔗 [LinkedIn](https://linkedin.com/in/sameermalik5) | 🌐 [GitHub](https://github.com/mrflint5)
 
+---
+
+---
+
+## 🖼️ Screenshot Output
+
+Here’s a preview of the project’s outcome and segmentation results:
+
+🔗 [Click to view the screenshot](https://drive.google.com/file/d/1ZztTwbFk01fscDhlS3ITj5Y1nK0YKQJf/view?usp=drive_link)
+
+![Screenshot](https://drive.google.com/uc?id=1ZztTwbFk01fscDhlS3ITj5Y1nK0YKQJf)
 
 ---
 
