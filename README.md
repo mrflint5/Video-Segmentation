@@ -137,7 +137,6 @@ Here’s a preview of the project’s outcome and segmentation results:
 
 🔗 [Click to view the screenshot](https://drive.google.com/file/d/1ZztTwbFk01fscDhlS3ITj5Y1nK0YKQJf/view?usp=drive_link)
 
-![Screenshot](https://drive.google.com/uc?id=1ZztTwbFk01fscDhlS3ITj5Y1nK0YKQJf)
 
 ---
 
