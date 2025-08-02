@@ -1,8 +1,6 @@
 
 # 🎬✨ Video Segmentation Research & Analysis 🔍🧠
 
-![License](https://img.shields.io/badge/License-MIT-green)
-
 Welcome to **"Video Segmentation: Comparative Study of Classical, ML & Deep Learning Techniques"**, a research-backed project showcasing a detailed comparison of various video segmentation methods — from basic thresholding to advanced transformer architectures. 🚀
 
 📄 **[View Report PDF](./Report%20Analysis.pdf)** | 🧪 **[Explore the Code](./Working.ipynb)**
