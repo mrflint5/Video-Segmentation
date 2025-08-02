@@ -125,11 +125,6 @@ Special thanks to the open-source community, research papers referenced, and con
 🎓 BCA Student @ Amity University, Lucknow  
 🔗 [LinkedIn](https://linkedin.com/in/sameermalik5) | 🌐 [GitHub](https://github.com/mrflint5)
 
----
-
-## 📃 License
-
-This project is licensed under the MIT License — feel free to use, share, and adapt with credit.
 
 ---
 
