@@ -145,7 +145,7 @@ Thanks to the open-source community and researchers in the field of computer vis
 
 **Sameer Malik**  
 🎓 BCA Student, Amity University Lucknow  
-🔗 [LinkedIn](https://linkedin.com/in/sameermalik5) | 🌐 [GitHub](https://github.com/mrflint5)
+🔗 [LinkedIn](https://www.linkedin.com/in/sameer-malik-b5b8772b9) | 🌐 [GitHub](https://github.com/mrflint5)
 
 ---
 
